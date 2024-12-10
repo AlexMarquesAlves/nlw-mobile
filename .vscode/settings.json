@@ -1,0 +1,14 @@
+{
+	"editor.formatOnSave": true,
+	"workbench.colorTheme": "Omni",
+	"workbench.iconTheme": "symbols",
+	"editor.defaultFormatter": "biomejs.biome",
+	"cSpell.words": [
+		"dayjs",
+		"fastify",
+		"paralleldrive",
+		"postgres",
+		"postgresql",
+		"Rocketseat"
+	]
+}

@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
+    "check": "npx @biomejs/biome check  --write src",
+    "format": "npx @biomejs/biome format --write src",
+    "lint": "npx @biomejs/biome lint --write src",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
