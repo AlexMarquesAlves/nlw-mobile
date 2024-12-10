@@ -9,7 +9,7 @@ export default function index(params: unknown) {
 				alignItems: 'center',
 			}}
 		>
-			<Text>Hello React Native</Text>
+			<Text style={{ fontSize: 22 }}>Hello React Native</Text>
 		</View>
 	);
 }
